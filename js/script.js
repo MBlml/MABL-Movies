@@ -19,7 +19,22 @@ const iframes = {
           width=640 
           height=360 
           allowfullscreen></iframe>`,
-  4: ``,
+  3: `<iframe src="https://uqload.net/embed-yoqeuocey0ob.html" 
+          frameborder="0" 
+          marginwidth="0" 
+          marginheight="0" 
+          scrolling="no"
+          width=640 
+          height=360 
+          allowfullscreen></iframe>`,
+  4: `<iframe src="https://uqload.net/embed-vg83p6x8v8aa.html" 
+          frameborder="0" 
+          marginwidth="0" 
+          marginheight="0" 
+          scrolling="no"
+          width=640 
+          height=360 
+          allowfullscreen></iframe>`,
   5: ``,
   6: ``,
   7: ``,
